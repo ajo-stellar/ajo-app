@@ -34,6 +34,7 @@ invented here.
 1. **Playbook location.** Provide
    `~/Desktop/Drips/_reference/playbooks/STELLAR-BUILD-PLAYBOOK-v3.md` so the
    shared app prompt (section 4) can scope v0.
+2. **Second reviewer.** Name the second human reviewer required before any funded test.
 
 ## Explicitly out of scope
 
