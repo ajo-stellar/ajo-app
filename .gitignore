@@ -22,3 +22,7 @@ Thumbs.db
 .idea/
 .vscode/*
 !.vscode/extensions.json
+# Interrupted dependency downloads retained locally; never source.
+.dependency-download-incomplete/
+
+.cache/
