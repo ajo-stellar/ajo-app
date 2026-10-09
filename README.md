@@ -1,5 +1,10 @@
 # Ajo — rotating savings circles on Stellar testnet
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="public/brand/logo-dark.svg">
+  <img src="public/brand/logo.svg" alt="Ajo" height="72">
+</picture>
+
 Status: local v0 prototype implemented; validation results are recorded in TESTING.md. No deployment, real-wallet end-to-end run or pilot has happened. Testnet only, no real money.
 
 **Unreviewed custody code. A second human review is required before any funded test.** One missing contribution can lock a pot indefinitely. No cancellation or refund exists.

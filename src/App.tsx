@@ -47,7 +47,7 @@ export default function App() {
 
   return <main>
     <div className="banner">TESTNET — no real money</div>
-    <header><p className="eyebrow">AJO / ROTATING SAVINGS</p><h1>One circle. A turn for everyone.</h1>
+    <header><p className="brand-identity"><img className="brand-mark" src="/brand/mark.svg" width="36" height="36" alt="" aria-hidden="true" />Ajo</p><p className="eyebrow">AJO / ROTATING SAVINGS</p><h1>One circle. A turn for everyone.</h1>
       <p>Fixed members contribute the same token amount each round. When everyone has paid, the next member receives the pot.</p>
     </header>
     <aside className="warning"><strong>Unreviewed custody prototype.</strong> No deployment or pilot has happened. A second human review is required before any funded test. Missed payments can lock contributions indefinitely; there is no cancellation or refund flow.</aside>
